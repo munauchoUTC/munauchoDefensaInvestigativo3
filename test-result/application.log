@@ -1,0 +1,5 @@
+07 ago 2015 07:53:14,091 INFO  ~ Starting C:\workspace\munauchoDefensaInvestigativo3
+07 ago 2015 07:53:16,045 WARN  ~ You're running Play! in DEV mode
+07 ago 2015 07:53:16,321 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+07 ago 2015 07:53:32,688 INFO  ~ Connected to jdbc:postgresql://localhost/defensa
+07 ago 2015 07:53:32,779 INFO  ~ Application 'munauchoDefensaInvestigativo3' is now started !
